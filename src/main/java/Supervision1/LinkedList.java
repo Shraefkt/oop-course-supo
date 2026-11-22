@@ -56,3 +56,6 @@ public class LinkedList {
         return false;
     }
 }
+//  use nodes instead - have 2 separate classes
+// understand node and LinkedList separately. Reason about them differently
+//
