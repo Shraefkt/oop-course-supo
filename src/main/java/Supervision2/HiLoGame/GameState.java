@@ -44,7 +44,7 @@ public class GameState {
             return "go higher";
         } else {
             score = maxGuesses-guessesUsed;
-            return "correct";
+            return "correct\nScore: " + score;
         }
     }
 
